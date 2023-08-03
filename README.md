@@ -13,6 +13,7 @@ I'm currently studying database modeling and manipulation. Ready for challenges 
 
 **Learning <br/>**
 <img src="https://lh3.googleusercontent.com/-v5LSZJbYI7E/YFdIchHdrnI/AAAAAAAAml0/hAwPRbMOpmEtd-0VA27zB4GS9O0a2kUzQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png" width="70" height="55"/>
+<img src="https://uba.uva.nl/binaries/_ht_1686124668825/700x0-webp/content/gallery/subsites/bibliotheek/workshops/python-symbol.png" width="60" height="40"/>
 
 **Contact <br/>**
 <div>
