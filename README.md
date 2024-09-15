@@ -1,7 +1,7 @@
 `PT`
 <h1 align="left"> Olá 👋 </h1>
 
-Eu sou a Bruna Machado Cordeiro, tenho 26 anos, nasci de uma pequena cidade chamada Curitibanos em Santa Catarina, e atualmente moro na Holanda. Sou Engenheira de Transportes por formação e hoje venho desbravando o universo da programação, construindo minha carreira como programadora! <br /> 
+Eu sou a Bruna Machado Cordeiro, tenho 27 anos, nasci de uma pequena cidade chamada Curitibanos em Santa Catarina, e atualmente moro na Holanda. Sou Engenheira de Transportes por formação e hoje venho desbravando o universo da programação, construindo minha carreira como programadora! <br /> 
 Atualmente estou estudando modelagem e manipulação de banco de dados. Pronta para os desafios e para aprender muito na jornada! <br /> 
 
 
