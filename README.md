@@ -8,8 +8,8 @@ Atualmente estou estudando modelagem e manipulação de banco de dados. Pronta p
 `EN`
 <h1 align="left">Hi 👋 </h1>
 
-I'm Bruna Machado Cordeiro, 26 years old, I was born in a small town called Curitibanos and I currently live in the Netherlands. I graduated as transport engineer and today I'm exploring the universe of programming, building my career as a programmer. <br/>
-I'm currently studying database modeling and manipulation. Ready for challenges and ready to learn a lot on the way!
+My name is Bruna Machado Cordeiro, I am 27 years old and I am ready to take on the world! I'm originally from Brazil but I currently live in the Netherlands where I am building my career in data science. <br/>
+I am excited to take on new challenges and learn as much as I can along the way!
 
 **Learning <br/>**
 <img src="https://lh3.googleusercontent.com/-v5LSZJbYI7E/YFdIchHdrnI/AAAAAAAAml0/hAwPRbMOpmEtd-0VA27zB4GS9O0a2kUzQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png" width="70" height="55"/>
